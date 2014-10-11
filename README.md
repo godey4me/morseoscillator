@@ -5,7 +5,7 @@ Solves the evolution of a particle in the Morse potential for a range of differe
 
 When the particle escapes the potential the time it took for this to happen is recorded, and the results are outputted in an npz (numpy zipped) file. 
 
-This repository has four files
+This repository has three files
 
 morse.py: This solves the evolution of each individual "chunk" of parameter space
 
